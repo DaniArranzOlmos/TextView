@@ -4,12 +4,12 @@ En esta práctica de Android, se aprende a utilizar el componente `TextView` par
 
 ### Objetivos:
 
-- Comprender cómo se utiliza el `TextView` para mostrar información.
-- Interactuar con el usuario mediante un `EditText` para ingresar datos.
-- Utilizar `Toast` para mostrar mensajes emergentes en la pantalla.
-- Aprender a manejar eventos de clic en un botón para ejecutar acciones.
+- 📖 Comprender cómo se utiliza el `TextView` para mostrar información.
+- ✍️ Interactuar con el usuario mediante un `EditText` para ingresar datos.
+- 🗨️ Utilizar `Toast` para mostrar mensajes emergentes en la pantalla.
+- 🎯 Aprender a manejar eventos de clic en un botón para ejecutar acciones.
 
 ### Tecnologías utilizadas:
 
-- Android Studio
-- Java
+- 🧑‍💻 Android Studio
+- ☕ Java
